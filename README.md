@@ -5,4 +5,5 @@ https://miro.com/app/board/uXjVM49btAw=/?share_link_id=747751338743
 (Mind map)
 https://docs.google.com/document/d/1Loec9eN4-A5E0UVzb-QDEQ1cKL_jVkiz3jcKWIe0ems/edit
 (Notes I made while trying to learn UC)
+I am still really bad at it so please do feel free to give comments! Your feedbacks will be valued. 
 
