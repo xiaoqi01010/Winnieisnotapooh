@@ -6,4 +6,5 @@ https://miro.com/app/board/uXjVM49btAw=/?share_link_id=747751338743
 https://docs.google.com/document/d/1Loec9eN4-A5E0UVzb-QDEQ1cKL_jVkiz3jcKWIe0ems/edit
 (Notes I made while trying to learn UC)
 I am still really bad at it so please do feel free to give comments! Your feedbacks will be valued. 
+I didnt upload everything in home directory(most of it actually HHH) because there were too many files but the codes run cleanly in my linux system hhh. I can just send the zip file but noone will need it anyways hhh. Im also not too sure why I wanted to create a repo ;--; 
 
